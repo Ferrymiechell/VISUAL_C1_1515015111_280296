@@ -426,7 +426,7 @@
               <Font name="Tahoma" size="12" style="0"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/busy.png"/>
+              <Image iconType="3" name="/Modul1dan2/busy.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="HAPUS"/>
           </Properties>
@@ -440,7 +440,7 @@
               <Font name="Tahoma" size="12" style="0"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/check.png"/>
+              <Image iconType="3" name="/Modul1dan2/check.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="CEK"/>
           </Properties>

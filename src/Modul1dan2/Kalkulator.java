@@ -1,3 +1,5 @@
+package Modul1dan2;
+
 
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
@@ -221,7 +223,7 @@ public class Kalkulator extends javax.swing.JFrame {
         );
 
         BTHapus.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        BTHapus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/busy.png"))); // NOI18N
+        BTHapus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Modul1dan2/busy.png"))); // NOI18N
         BTHapus.setText("HAPUS");
         BTHapus.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -230,7 +232,7 @@ public class Kalkulator extends javax.swing.JFrame {
         });
 
         BTCek.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        BTCek.setIcon(new javax.swing.ImageIcon(getClass().getResource("/check.png"))); // NOI18N
+        BTCek.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Modul1dan2/check.png"))); // NOI18N
         BTCek.setText("CEK");
         BTCek.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
